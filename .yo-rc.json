@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "hello-spfx-with-docker",
+    "libraryId": "23dbaae1-0565-4aa0-ac0a-af94748d3ddf",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "helloSPFXWithDocker",
+    "solutionShortDescription": "helloSPFXWithDocker description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

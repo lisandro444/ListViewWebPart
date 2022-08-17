@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-spfx-with-docker-client-side-solution",
+    "id": "23dbaae1-0565-4aa0-ac0a-af94748d3ddf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "helloSPFXWithDocker description"
+      },
+      "longDescription": {
+        "default": "helloSPFXWithDocker description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "hello-spfx-with-docker Feature",
+        "description": "The feature that activates elements of the hello-spfx-with-docker solution.",
+        "id": "0016a1eb-72f2-448a-ade6-27a95ed21829",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-spfx-with-docker.sppkg"
+  }
+}
